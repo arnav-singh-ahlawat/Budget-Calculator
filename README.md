@@ -1,10 +1,14 @@
 # Budget Calculator Web App
 
+![#USER-INTERFACE](https://github.com/arnav-singh-ahlawat/Budget-Calculator/assets/159664776/9ca784e5-ca5c-402f-8ded-9bffbf4e62cd)
+
 ## Overview:
 
 Budget Calculator is a web application designed to help users manage their finances effectively. It provides a simple and intuitive interface for users to track their income, expenses, and savings. Built using React Bootstrap, the application offers a responsive and visually appealing experience across different devices.
 
 ## Video Demo:
+
+https://github.com/arnav-singh-ahlawat/Budget-Calculator/assets/159664776/85bed04d-5766-401a-a5fc-b68758ad96ab
 
 ## Features:
 
